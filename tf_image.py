@@ -16,7 +16,6 @@
 """
 
 import numpy as np
-import google3
 import tensorflow as tf
 slim = tf.contrib.slim
 
